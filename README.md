@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nagasowmyamatcha
 - 👀 I’m interested in Devops.
-- 🌱 I’m currently learning Ansible tool.
+- 🌱 I’m currently learning Ansible configuration management tool.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
